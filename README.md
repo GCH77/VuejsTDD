@@ -17,7 +17,7 @@ yarn install Or npm install
 ## Running tests ⚙️
 To run the test with Jest, execute the follow command:
 ```
-yarn unit:test --watchAll Or npm unit:test --watchAll
+yarn test:unit --watchAll Or npm test:unit --watchAll
 ```
 Note. The sentence "--watchAll" is to listener the changes in the tests
 
